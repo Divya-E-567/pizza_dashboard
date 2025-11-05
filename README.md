@@ -1,7 +1,9 @@
 🚀 Thrilled to share my latest Data Analytics project — Spotify Music Insights Dashboard!
 
 This end-to-end project combines Python for data cleaning and Power BI for visualization to uncover patterns behind the world’s most popular songs and artists.
+
 💡 Key Insights:
+
 🎤 Artist-wise popularity and top tracks
  🎵 Song duration and explicit content analysis
  📈 Average popularity trends by year
